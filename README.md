@@ -21,4 +21,4 @@ Click to download sktech file, Light and Dark: [Apple-Reminders-App-Icon.sketch]
 
 ![picture](https://cdn.dribbble.com/users/4311202/screenshots/10480194/media/a7f1d94f0bc8a0673db6a7b1d513ed77.jpg)
 
-Click to download sktech file: [Apple-Find_My-Icon.sketch](https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-Find_My-Icon.sketch)
+Click to download sktech file: [Apple-Find_My-Icon.sketch](https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-Find_My-App-Icon.sketch)
