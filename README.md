@@ -51,7 +51,7 @@
             <tr>
                 <td><h4> 3 </h4></td>
                 <td><img src="App Icon/Apple/FindMy.png" alt="Find My" width="150px"></td>
-                <td><button type="button">Click Me!</button></td>
+                <td>Find My</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -67,7 +67,7 @@
             <tr>
                 <td><h4> 4 </h4></td>
                 <td><img src="App Icon/Apple/Health.png" alt="Health" width="150px"></td>
-                <td></td>
+                <td>Health</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -83,7 +83,7 @@
             <tr>
                 <td><h4> 5 </h4></td>
                 <td><img src="App Icon/Apple/Home.png" alt="Home" width="150px"></td>
-                <td></td>
+                <td>Home</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -99,7 +99,7 @@
             <tr>
                 <td><h4> 6 </h4></td>
                 <td><img src="App Icon/Apple/Reminders.png" alt="Reminders" width="150px"></td>
-                <td></td>
+                <td>Reminders</td>
                 <td></td>
                 <td></td>
                 <td></td>
