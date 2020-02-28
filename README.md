@@ -22,7 +22,11 @@
                 <td><strong>This is bold text</strong></td>
             </tr>
             <tr>
-
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td><img src="App Icon/Apple/FindMy.png" alt="App Store" width="100px"></td>
