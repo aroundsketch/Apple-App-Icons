@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="72px" viewBox="0 0 240 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Badge / Sketch/@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF9300" offset="0%"></stop>
+            <stop stop-color="#FF7400" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Badge-/-Sketch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sketch-Badge">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="0" width="240" height="72" rx="36"></rect>
+            <path d="M195.905043,47.9947911 L195.75,48 C195.306078,48 194.892184,47.8722906 194.543516,47.6508019 C193.900388,47.7119512 193.235983,47.4963306 192.744586,47.0049328 L185.313815,39.574162 C184.478594,38.7389415 184.434514,37.4138008 185.196538,36.5251625 L185.31689,36.3952563 C186.195569,35.5165766 187.620279,35.5166648 188.495795,36.3921815 L193.499682,41.396 L193.5,26.2578617 C193.5,25.0628367 194.417205,24.0846498 195.594957,24.0052089 L195.75,24 C196.992641,24 198,25.0006946 198,26.2578617 L197.999682,41.636 L203.244586,36.3921815 C204.078411,35.5583561 205.41037,35.5185701 206.294369,36.2757083 L206.423491,36.3952563 L206.543843,36.5251625 C207.305867,37.4138008 207.261787,38.7389415 206.426566,39.574162 L206.426566,39.574162 L198.995795,47.0049328 C198.453809,47.5469194 197.701361,47.7534242 196.998272,47.6236552 L196.889469,47.6917357 C196.597802,47.863187 196.26349,47.9706134 195.905043,47.9947911 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <text id=".SKETCH" font-family="PingFangSC-Semibold, PingFang SC" font-size="33" font-weight="500" fill="#FFFFFF">
+                <tspan x="33.1365" y="48.5">.</tspan>
+                <tspan x="42.2115" y="48.5" font-family="Avenir-Black, Avenir" font-weight="700">SKETCH</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
