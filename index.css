@@ -25,3 +25,6 @@ html {
     border-radius: 30px;
     box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.03);
 }
+.icon-formating:hover {
+    box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.1);
+}
