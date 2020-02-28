@@ -19,10 +19,10 @@
                 <td><h4> 1 </h4></td>
                 <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="150px"></td>
                 <td>App Store</td>
-                <td><button type="button" onclick="alert('Hello world!')">Click Me!</button></td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-AppStore-App-Icon.sketch"><img src="Badge/PNG/PNG.png" alt="PNG Badge" width="100px"></a></td>
                 <td></td>
                 <td></td>
-                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-AppStore-App-Icon.sketch"><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge" width="100px"></a></td>
+                <td><a href="/Apple-App-Icons/raw/master/Apple-AppStore-App-Icon.sketch"><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge" width="100px"></a></td>
             </tr>
             <tr>
                 <td></td>
