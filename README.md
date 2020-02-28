@@ -34,7 +34,7 @@
             </tr>
             <tr>
                 <td><h4> 2 </h4></td>
-                <td><img src="App Icon/Apple/Connect.png" alt="Connect" width="150px"></td>
+                <td><img src="App Icon/Apple/Connect/@SVG.svg" alt="Connect" width="150px"></td>
                 <td>Connect</td>
                 <td></td>
                 <td></td>
@@ -50,7 +50,7 @@
             </tr>
             <tr>
                 <td><h4> 3 </h4></td>
-                <td><img src="App Icon/Apple/FindMy.png" alt="Find My" width="150px"></td>
+                <td><img src="App Icon/Apple/FindMy/@SVG.svg" alt="Find My" width="150px"></td>
                 <td>Find My</td>
                 <td></td>
                 <td></td>
@@ -66,7 +66,7 @@
             </tr>
             <tr>
                 <td><h4> 4 </h4></td>
-                <td><img src="App Icon/Apple/Health.png" alt="Health" width="150px"></td>
+                <td><img src="App Icon/Apple/Health/@SVG.svg" alt="Health" width="150px"></td>
                 <td>Health</td>
                 <td></td>
                 <td></td>
@@ -82,7 +82,7 @@
             </tr>
             <tr>
                 <td><h4> 5 </h4></td>
-                <td><img src="App Icon/Apple/Home.png" alt="Home" width="150px"></td>
+                <td><img src="App Icon/Apple/Home/@SVG.svg" alt="Home" width="150px"></td>
                 <td>Home</td>
                 <td></td>
                 <td></td>
@@ -98,7 +98,7 @@
             </tr>
             <tr>
                 <td><h4> 6 </h4></td>
-                <td><img src="App Icon/Apple/Reminders.png" alt="Reminders" width="150px"></td>
+                <td><img src="App Icon/Apple/Reminders/@SVG.svg" alt="Reminders" width="150px"></td>
                 <td>Reminders</td>
                 <td></td>
                 <td></td>
