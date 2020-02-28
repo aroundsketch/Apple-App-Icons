@@ -52,10 +52,10 @@
                 <td><img src="App Icon/Apple/Connect/@SVG.svg" alt="Connect" width="150px"></td>
                 <td>Connect</td>
                 <td>
-                    <a href="github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Connect/@PNG.png">
+                    <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Connect/@PNG.png">
                         <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="85px"></a></td>
                 <td>
-                    <a href="github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Connect/@PDF.pdf">
+                    <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Connect/@PDF.pdf">
                         <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="85px"></td>
                 <td>
                     <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Connect/@SVG.svg">
