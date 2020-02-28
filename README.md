@@ -21,7 +21,7 @@
                 <td>App Store</td>
                 <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore.png"><img src="Badge/PNG/PNG@SVG.svg" alt="PNG Badge" width="85px"></a></td>
                 <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore.png"><img src="Badge/PDF/PDF@SVG.svg" alt="PDF Badge" width="85px"></td>
-                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore.png"><img src="BadgeSVG/SVG@SVG.svg" alt="SVG Badge" width="85px"></td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore.png"><img src="Badge/SVG/SVG@SVG.svg" alt="SVG Badge" width="85px"></td>
                 <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-AppStore-App-Icon.sketch"><img src="Badge/Sketch/Sketch.svg" alt="Sketch Badge" width="120px"></a></td>
             </tr>
             <tr>
