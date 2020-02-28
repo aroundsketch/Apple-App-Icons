@@ -15,12 +15,12 @@
         </thead>
         <tbody>
             <tr>
-                <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="150px">App Store</td>
+                <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="150px"></td>
+                <td>App Store</td>
                 <td></td>
                 <td></td>
                 <td></td>
-                <td></td>
-                <td></td>
+                <td><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge"></td>
             </tr>
             <tr>
                 <td></td>
