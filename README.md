@@ -15,7 +15,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="300" height="300"></td>
+                <td><img src="App Icon/Apple/AppStore.png" alt="App Store" height="150"></td>
                 <td><code>** **</code> or <code>__ __</code></td>
                 <td>command/control + b</td>
                 <td><code>**This is bold text**</code></td>
