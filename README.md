@@ -5,11 +5,12 @@
     <table>
         <thead>
             <tr>
-                <th>Style</th>
-                <th>Syntax</th>
-                <th>Keyboard shortcut</th>
-                <th>Example</th>
-                <th>Output</th>
+                <th>Icon</th>
+                <th>Name</th>
+                <th>PNG</th>
+                <th>PDF</th>
+                <th>SVG</th>
+                <th>RAW</th>
             </tr>
         </thead>
         <tbody>
