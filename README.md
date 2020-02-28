@@ -3,6 +3,7 @@
 ### Apple Healt App Icon - V2
 
 ![picture](https://cdn.dribbble.com/users/4311202/screenshots/10493042/media/d65303857d15cda5630af727d44b829a.jpg)
+![picture](https://cdn.dribbble.com/users/4311202/screenshots/10493117/media/f3decf3fbc5b8288fa21fbc0d5f1a09c.jpg)
 
 Click to download sktech file, Light and Dark: [Apple-Health-App-Icon-V2.sketch](https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-Health-App-Icon-V2.sketch)
 
