@@ -16,7 +16,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>1</td>
+                <td style="font-weight: bold">1</td>
                 <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="150px"></td>
                 <td>App Store</td>
                 <td></td>
