@@ -22,11 +22,7 @@
                 <td><strong>This is bold text</strong></td>
             </tr>
             <tr>
-                <td><img src="App Icon/Apple/Connect.png" alt="App Store" width="100px"></td>
-                <td><code>* *</code> or <code>_ _</code></td>
-                <td>command/control + i</td>
-                <td><code>*This text is italicized*</code></td>
-                <td><em>This text is italicized</em></td>
+
             </tr>
             <tr>
                 <td><img src="App Icon/Apple/FindMy.png" alt="App Store" width="100px"></td>
