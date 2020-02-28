@@ -8,7 +8,7 @@
                 <th>#</th>
                 <th>Icon</th>
                 <th>Name</th>
-                <th>PNG 1024</th>
+                <th>PNG(1024)</th>
                 <th>PDF</th>
                 <th>SVG</th>
                 <th>RAW</th>
