@@ -2,6 +2,7 @@
 
 ### Apple App Store + Connect App Icon
 
+<img src="https://cdn.dribbble.com/users/4311202/screenshots/10493467/media/8be8d109b33bdba2983d8ba98138f7af.jpg" alt="alt text" width="100" height="100">
 ![img](https://cdn.dribbble.com/users/4311202/screenshots/10493467/media/8be8d109b33bdba2983d8ba98138f7af.jpg | width=100)
 ![img](https://cdn.dribbble.com/users/4311202/screenshots/10493489/media/d196b9057dcd175ab7ec7c82848abfb8.jpg)
 
