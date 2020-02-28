@@ -20,7 +20,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge"></td>
+                <td><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge" width="80px"></td>
             </tr>
             <tr>
                 <td></td>
