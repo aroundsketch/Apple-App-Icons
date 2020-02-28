@@ -1,9 +1,9 @@
 # Apple-App-Icons
-
+---
 <body>
     <table>
         <thead>
-            <tr>
+            <tr class="download-button">
                 <th>#</th>
                 <th>Icon</th>
                 <th>Name</th>
