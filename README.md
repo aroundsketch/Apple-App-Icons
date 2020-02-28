@@ -1,6 +1,54 @@
 # Apple-App-Icons
 
 ### Apple App Store + Connect App Icon
+<table>
+<thead>
+<tr>
+<th>Style</th>
+<th>Syntax</th>
+<th>Keyboard shortcut</th>
+<th>Example</th>
+<th>Output</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bold</td>
+<td><code>** **</code> or <code>__ __</code></td>
+<td>command/control + b</td>
+<td><code>**This is bold text**</code></td>
+<td><strong>This is bold text</strong></td>
+</tr>
+<tr>
+<td>Italic</td>
+<td><code>* *</code> or <code>_ _</code></td>
+<td>command/control + i</td>
+<td><code>*This text is italicized*</code></td>
+<td><em>This text is italicized</em></td>
+</tr>
+<tr>
+<td>Strikethrough</td>
+<td><code>~~ ~~</code></td>
+<td>
+</td><td><code>~~This was mistaken text~~</code></td>
+<td><del>This was mistaken text</del></td>
+</tr>
+<tr>
+<td>Bold and nested italic</td>
+<td><code>** **</code> and <code>_ _</code></td>
+<td>
+</td><td><code>**This text is _extremely_ important**</code></td>
+<td><strong>This text is <em>extremely</em> important</strong></td>
+</tr>
+<tr>
+<td>All bold and italic</td>
+<td><code>*** ***</code></td>
+<td>
+</td><td><code>***All this text is important***</code></td>
+<td><strong><em>All this text is important</em></strong></td>
+</tr>
+</tbody>
+</table>
 
 <img src="https://cdn.dribbble.com/users/4311202/screenshots/10493467/media/8be8d109b33bdba2983d8ba98138f7af.jpg" alt="alt text" height="300">
 <img src="https://cdn.dribbble.com/users/4311202/screenshots/10493489/media/d196b9057dcd175ab7ec7c82848abfb8.jpg" alt="alt text" height="300">
