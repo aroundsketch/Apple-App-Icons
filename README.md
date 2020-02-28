@@ -20,7 +20,7 @@
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge" width="80px"></td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-AppStore-App-Icon.sketch"><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge" width="80px"></a></td>
             </tr>
             <tr>
                 <td></td>
