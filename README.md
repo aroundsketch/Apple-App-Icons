@@ -15,7 +15,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="150px"></td>
+                <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="150px">App Store</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -30,7 +30,7 @@
             </tr>
             <tr>
                 <td><img src="App Icon/Apple/Connect.png" alt="Connect" width="150px"></td>
-                <td></td>
+                <td>Connect</td>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -44,7 +44,7 @@
             </tr>
             <tr>
                 <td><img src="App Icon/Apple/FindMy.png" alt="Find My" width="150px"></td>
-                <td></td>
+                <td><button type="button">Click Me!</button></td>
                 <td></td>
                 <td></td>
                 <td></td>
