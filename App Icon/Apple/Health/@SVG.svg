@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / Health/@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF61AD" offset="0%"></stop>
+            <stop stop-color="#FF2719" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FD4C94" offset="0%"></stop>
+            <stop stop-color="#FF0000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M735.428571,170 C687.166745,170 648.180944,186.459885 624,221.55102 C599.819056,186.459885 560.833255,170 521.142857,170 C443.482169,170 384,229.754496 384,307.469388 C384,423.057643 494.938895,540.612022 624,591 C725.77819,556.557315 864,423.057643 864,307.469388 C864,229.754496 804.517831,170 735.428571,170 Z" id="path-3"></path>
+        <filter x="-8.0%" y="-8.7%" width="116.0%" height="118.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="2.5" operator="erode" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="App-Icon-/-Apple-/-Health" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background" fill="#FFFFFF" stroke="#F0F0F0" stroke-width="4">
+            <path d="M793,2 L231,2 C167.763396,2 110.513396,27.6316981 69.0725471,69.0725471 C27.6316981,110.513396 2,167.763396 2,231 L2,793 C2,856.236604 27.6316981,913.486604 69.0725471,954.927453 C110.513396,996.368302 167.763396,1022 231,1022 L793,1022 C856.236604,1022 913.486604,996.368302 954.927453,954.927453 C996.368302,913.486604 1022,856.236604 1022,793 L1022,231 C1022,167.763396 996.368302,110.513396 954.927453,69.0725471 C913.486604,27.6316981 856.236604,2 793,2 Z" id="Mask"></path>
+        </g>
+        <g id="Health-Icon">
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+            <path stroke="url(#linearGradient-2)" stroke-width="3" d="M735.428571,171.5 C687.730835,171.5 649.148052,187.699984 625.235145,222.402147 C624.81772,223.007909 624.407155,223.615842 624.003429,224.225921 C623.594955,223.618955 623.183348,223.00946 622.764855,222.402147 C598.874284,187.732398 560.346968,171.5 521.142857,171.5 C482.753822,171.5 448.850306,186.253331 424.541572,210.619943 C400.211101,235.008343 385.5,269.019321 385.5,307.469388 C385.5,363.15052 411.439345,419.268661 452.722444,468.039587 C496.636929,519.919173 557.928266,563.490767 624.023653,589.398561 C678.307385,570.883236 742.86762,524.178578 791.135781,467.155656 C832.893934,417.823512 862.5,360.749116 862.5,307.469388 C862.5,269.512174 848.165461,235.881225 825.416827,211.558242 C802.118536,186.647562 769.993638,171.5 735.428571,171.5 Z" stroke-linejoin="square" fill="url(#linearGradient-1)" fill-rule="evenodd"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / FindMy/@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#5CEF80" offset="0%"></stop>
+            <stop stop-color="#0ACD47" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#82EA8D" offset="0%"></stop>
+            <stop stop-color="#4BD054" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="445" cy="445" r="290"></circle>
+        <filter x="-3.4%" y="-2.8%" width="106.7%" height="106.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#5CEF80" offset="0%"></stop>
+            <stop stop-color="#2BBF5C" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="445" cy="445" r="445"></circle>
+        <linearGradient x1="50%" y1="12.0885353%" x2="50%" y2="91.1820816%" id="linearGradient-8">
+            <stop stop-color="#00ACFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#005EE5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-9" cx="445" cy="445" r="125"></circle>
+        <filter x="-15.8%" y="-14.2%" width="131.6%" height="131.6%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="12.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.75 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="App-Icon-/-Apple-/-FindMy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background" fill="#FFFFFF" stroke="#F0F0F0" stroke-width="4">
+            <path d="M793,2 L231,2 C167.763396,2 110.513396,27.6316981 69.0725471,69.0725471 C27.6316981,110.513396 2,167.763396 2,231 L2,793 C2,856.236604 27.6316981,913.486604 69.0725471,954.927453 C110.513396,996.368302 167.763396,1022 231,1022 L793,1022 C856.236604,1022 913.486604,996.368302 954.927453,954.927453 C996.368302,913.486604 1022,856.236604 1022,793 L1022,231 C1022,167.763396 996.368302,110.513396 954.927453,69.0725471 C913.486604,27.6316981 856.236604,2 793,2 Z" id="Mask"></path>
+        </g>
+        <g id="Group-2" transform="translate(67.000000, 67.000000)">
+            <circle id="Oval" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#linearGradient-1)" cx="445" cy="445" r="443.5"></circle>
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill-opacity="0.25" fill="#373737" fill-rule="evenodd" style="mix-blend-mode: overlay;" xlink:href="#path-3"></use>
+                <circle stroke-opacity="0.25" stroke="#FFFFFF" stroke-width="18" stroke-linejoin="square" cx="445" cy="445" r="281"></circle>
+            </g>
+            <g id="Group">
+                <mask id="mask-7" fill="white">
+                    <use xlink:href="#path-6"></use>
+                </mask>
+                <use id="Oval" fill="url(#linearGradient-5)" opacity="0" xlink:href="#path-6"></use>
+                <polygon id="Rectangle" stroke="#37F251" stroke-width="5" fill="url(#linearGradient-8)" mask="url(#mask-7)" points="155 -67 735 -67 445.5 445"></polygon>
+            </g>
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <circle stroke="#0061DB" stroke-width="43" stroke-linejoin="square" fill="#007AFF" fill-rule="evenodd" cx="445" cy="445" r="103.5"></circle>
+                <circle stroke="#FFFFFF" stroke-width="38" stroke-linejoin="square" cx="445" cy="445" r="106"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
