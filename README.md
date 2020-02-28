@@ -16,10 +16,10 @@
         <tbody>
             <tr>
                 <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="100px"></td>
-                <td><code>** **</code> or <code>__ __</code></td>
-                <td>command/control + b</td>
-                <td><code>**This is bold text**</code></td>
-                <td><strong>This is bold text</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
                 <td></td>
@@ -29,36 +29,67 @@
                 <td></td>
             </tr>
             <tr>
-                <td><img src="App Icon/Apple/FindMy.png" alt="App Store" width="100px"></td>
-                <td><code>~~ ~~</code></td>
-                <td>
-                </td>
-                <td><code>~~This was mistaken text~~</code></td>
-                <td><del>This was mistaken text</del></td>
+                <td><img src="App Icon/Apple/Connect.png" alt="Connect" width="100px"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
-                <td><img src="App Icon/Apple/Health.png" alt="App Store" width="100px"></td>
-                <td><code>** **</code> and <code>_ _</code></td>
-                <td>
-                </td>
-                <td><code>**This text is _extremely_ important**</code></td>
-                <td><strong>This text is <em>extremely</em> important</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
-                <td><img src="App Icon/Apple/Home.png" alt="App Store" width="100px"></td>
-                <td><code>*** ***</code></td>
-                <td>
-                </td>
-                <td><code>***All this text is important***</code></td>
-                <td><strong><em>All this text is important</em></strong></td>
+                <td><img src="App Icon/Apple/FindMy.png" alt="Find My" width="100px"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
             <tr>
-                <td><img src="App Icon/Apple/Reminders.png" alt="App Store" width="100px"></td>
-                <td><code>*** ***</code></td>
-                <td>
-                </td>
-                <td><code>***All this text is important***</code></td>
-                <td><strong><em>All this text is important</em></strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="App Icon/Apple/Health.png" alt="Health" width="100px"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="App Icon/Apple/Home.png" alt="Home" width="100px"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><img src="App Icon/Apple/Reminders.png" alt="Reminders" width="100px"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
             </tr>
         </tbody>
     </table>
