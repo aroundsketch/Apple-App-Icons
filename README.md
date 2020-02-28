@@ -5,6 +5,7 @@
     <table>
         <thead>
             <tr>
+                <th>#</th>
                 <th>Icon</th>
                 <th>Name</th>
                 <th>PNG</th>
@@ -15,6 +16,7 @@
         </thead>
         <tbody>
             <tr>
+                <td><strong>1</strong></td>
                 <td><img src="App Icon/Apple/AppStore.png" alt="App Store" width="150px"></td>
                 <td>App Store</td>
                 <td></td>
