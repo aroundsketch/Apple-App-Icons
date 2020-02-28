@@ -22,7 +22,7 @@
                 <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore.png"><img src="Badge/PNG/PNG@SVG.svg" alt="PNG Badge" width="85px"></a></td>
                 <td></td>
                 <td></td>
-                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-AppStore-App-Icon.sketch"><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge" width="85px"></a></td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-AppStore-App-Icon.sketch"><img src="Badge/Sketch/Sketch.png" alt="Sketch Badge" width="100px"></a></td>
             </tr>
             <tr>
                 <td></td>
