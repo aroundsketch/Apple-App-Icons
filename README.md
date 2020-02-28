@@ -22,14 +22,14 @@
                 <td><strong>This is bold text</strong></td>
             </tr>
             <tr>
-                <td>Italic</td>
+                <td><img src="App Icon/Apple/Connect.png" alt="App Store" width="100px"></td>
                 <td><code>* *</code> or <code>_ _</code></td>
                 <td>command/control + i</td>
                 <td><code>*This text is italicized*</code></td>
                 <td><em>This text is italicized</em></td>
             </tr>
             <tr>
-                <td>Strikethrough</td>
+                <td><img src="App Icon/Apple/FindMy.png" alt="App Store" width="100px"></td>
                 <td><code>~~ ~~</code></td>
                 <td>
                 </td>
@@ -37,7 +37,7 @@
                 <td><del>This was mistaken text</del></td>
             </tr>
             <tr>
-                <td>Bold and nested italic</td>
+                <td><img src="App Icon/Apple/Health.png" alt="App Store" width="100px"></td>
                 <td><code>** **</code> and <code>_ _</code></td>
                 <td>
                 </td>
@@ -45,7 +45,15 @@
                 <td><strong>This text is <em>extremely</em> important</strong></td>
             </tr>
             <tr>
-                <td>All bold and italic</td>
+                <td><img src="App Icon/Apple/Home.png" alt="App Store" width="100px"></td>
+                <td><code>*** ***</code></td>
+                <td>
+                </td>
+                <td><code>***All this text is important***</code></td>
+                <td><strong><em>All this text is important</em></strong></td>
+            </tr>
+            <tr>
+                <td><img src="App Icon/Apple/Reminders.png" alt="App Store" width="100px"></td>
                 <td><code>*** ***</code></td>
                 <td>
                 </td>
