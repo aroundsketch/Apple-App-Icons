@@ -23,8 +23,8 @@ html {
     width: 128px;
     border: solid 1px #F0F0F0;
     border-radius: 30px;
-    box-shadow: 0 8px 8px 0 rgba(2, 68, 22, 0.03);
+    box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.03);
 }
 .icon-formating:hover {
-    box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.1);
+    box-shadow: 4px 4px 8px 0 rgba(2, 68, 22, 0.1);
 }
