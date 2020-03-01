@@ -3,13 +3,11 @@
 <body align="center">
     <table align="center">
         <thead>
-            <tr class="download-button">
+            <tr>
                 <th>#</th>
                 <th>Icon</th>
                 <th>Name</th>
-                <th>PNG(1024)</th>
-                <th>PDF</th>
-                <th>SVG</th>
+                <th>1024</th>
                 <th>RAW</th>
             </tr>
         </thead>
