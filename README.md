@@ -1,6 +1,6 @@
 # Apple-App-Icons
 ---
-<body>
+<body align="center">
     <table>
         <thead>
             <tr class="download-button">
