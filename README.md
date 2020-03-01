@@ -30,12 +30,6 @@
                     </a>
                 </td>
                 <td>
-                    
-                </td>
-                <td>
-                    
-                </td>
-                <td>
                     <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
                         <img src="Badge/Sketch/@SVG.svg" alt="Sketch Badge" width="120px">
                     </a>
