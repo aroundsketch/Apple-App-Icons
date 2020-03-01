@@ -19,15 +19,20 @@
                 <td><img src="/App Icon/Apple/AppStore/@PNG.png" alt="App Store" width="150px"></td>
                 <td>App Store</td>
                 <td>
-                    <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/AppStore/@PNG.png">
-                        <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="85px">
-                    </a>
-                    <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore/@PDF.pdf">
-                        <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="85px">
-                    </a>
-                    <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore/@SVG.svg">
-                        <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="85px">
-                    </a>
+                    <ul>   
+                        <li>
+                            <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/AppStore/@PNG.png"><img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="85px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore/@PDF.pdf"><img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="85px">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore/@SVG.svg"><img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="85px">
+                            </a>
+                        </li>
+                    </ul>
                 </td>
                 <td>
                     <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
