@@ -18,15 +18,15 @@
                 <td>App Store</td>
                 <td>
                         <div>
-                            <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/AppStore/@PNG.png"><img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="85px">
+                            <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/AppStore/@PNG.png"><img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px">
                             </a>
                         </div>
                         <div>
-                            <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore/@PDF.pdf"><img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="85px">
+                            <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore/@PDF.pdf"><img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px">
                             </a>
                         </div>
                         <div>
-                            <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore/@SVG.svg"><img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="85px">
+                            <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/AppStore/@SVG.svg"><img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px">
                             </a>
                         </div>
                 </td>
