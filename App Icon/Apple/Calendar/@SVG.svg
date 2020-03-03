@@ -4,15 +4,17 @@
     <title>App Icon / Apple / Calendar /@SVG</title>
     <desc>Created with Sketch.</desc>
     <g id="App-Icon-/-Apple-/-Calendar-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
-        <g id="Calendar" transform="translate(112.000000, 105.000000)">
-            <text id="29" font-family="SFProText-Thin, SF Pro Text" font-size="667" font-weight="300" letter-spacing="-16.547731" fill="#000000">
-                <tspan x="0.154176312" y="758">29</tspan>
-            </text>
-            <text id="Saturday" font-family="SFProText-Regular, SF Pro Text" font-size="184" font-weight="normal" letter-spacing="1.27234043" fill="#FF3B30">
-                <tspan x="9.25634142" y="175">Saturday</tspan>
-            </text>
+        <g id="Group">
+            <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
+            <g id="Template"></g>
+            <g id="Calendar" transform="translate(112.000000, 105.000000)">
+                <text id="29" font-family="SFProText-Thin, SF Pro Text" font-size="667" font-weight="300" letter-spacing="-16.547731" fill="#000000">
+                    <tspan x="0.154176312" y="758">29</tspan>
+                </text>
+                <text id="Saturday" font-family="SFProText-Regular, SF Pro Text" font-size="184" font-weight="normal" letter-spacing="1.27234043" fill="#FF3B30">
+                    <tspan x="9.25634142" y="175">Saturday</tspan>
+                </text>
+            </g>
         </g>
     </g>
 </svg>
