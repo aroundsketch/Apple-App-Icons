@@ -88,11 +88,11 @@
                 <td><img src="App Icon/Apple/Health/@PNG.png" alt="Health" width="150px"></td>
                 <td>Health</td>
                 <td>
-                    <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Health/Dark@PNG.png">
+                    <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Health/Light@PNG.png">
                         <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
-                    <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Health/Dark@PDF.pdf">
+                    <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Health/Light@PDF.pdf">
                         <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
-                    <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Health/Dark@SVG.svg">
+                    <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Health/Light@SVG.svg">
                         <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
                 </td>
                 <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
@@ -135,11 +135,11 @@
                 <td>Reminders</td>
                 <td>
                     <div>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Reminders/Dark@PNG.png">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Reminders/Light@PNG.png">
                             <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Reminders/Dark@PDF.pdf">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Reminders/Light@PDF.pdf">
                             <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Reminders/Dark@SVG.svg">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Reminders/Light@SVG.svg">
                             <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
                     </div>
                 </td>
