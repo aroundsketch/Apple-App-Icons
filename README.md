@@ -14,7 +14,7 @@
         <tbody>
             <tr>
                 <td><h4> 1 </h4></td>
-                <td><img src="/App Icon/Apple/AppStore/@PNG.png" alt="App Store" width="60px"></td>
+                <td><img src="/App Icon/Apple/AppStore/@PNG.png" alt="App Store" width="100px"></td>
                 <td>App Store</td>
                 <td>
                     <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/AppStore/@PNG.png">
