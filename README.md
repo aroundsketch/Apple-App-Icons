@@ -13,7 +13,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><h4> 1 </h4></td>
+                <td><h4>1</h4></td>
                 <td><img src="/App Icon/Apple/AppStore/@PNG.png" alt="App Store" width="100px"></td>
                 <td>App Store</td>
                 <td>
@@ -37,7 +37,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 2 </h4></td>
+                <td><h4>2</h4></td>
                 <td><img src="App Icon/Apple/Connect/@PNG.png" alt="Connect" width="100px"></td>
                 <td>Connect</td>
                 <td>
@@ -61,7 +61,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 3 </h4></td>
+                <td><h4>3</h4></td>
                 <td><img src="App Icon/Apple/FindMy/@PNG.png" alt="Find My" width="100px"></td>
                 <td>Find My</td>
                 <td>
@@ -84,7 +84,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 4 </h4></td>
+                <td><h4>4</h4></td>
                 <td><img src="App Icon/Apple/Health/Light@PNG.png" alt="Health" width="100px"></td>
                 <td>Health</td>
                 <td>
@@ -107,7 +107,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 5 </h4></td>
+                <td><h4>5</h4></td>
                 <td><img src="App Icon/Apple/Home/@PNG.png" alt="Home" width="100px"></td>
                 <td>Home</td>
                 <td>
@@ -130,7 +130,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 6 </h4></td>
+                <td><h4>6</h4></td>
                 <td><img src="App Icon/Apple/Reminders/Light@PNG.png" alt="Reminders" width="100px"></td>
                 <td>Reminders</td>
                 <td>
@@ -155,7 +155,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 7 </h4></td>
+                <td><h4>7</h4></td>
                 <td><img src="App Icon/Apple/Calendar/@PNG.png" alt="Calendar" width="100px"></td>
                 <td>Calendar</td>
                 <td>
@@ -180,7 +180,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 8 </h4></td>
+                <td><h4>8</h4></td>
                 <td><img src="App Icon/Apple/Photos/@PNG.png" alt="Photos" width="100px"></td>
                 <td>Photos</td>
                 <td>
@@ -205,7 +205,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 9 </h4></td>
+                <td><h4>9</h4></td>
                 <td><img src="App Icon/Apple/Files/@PNG.png" alt="Files" width="100px"></td>
                 <td>Files</td>
                 <td>
@@ -230,7 +230,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 10 </h4></td>
+                <td><h4>10</h4></td>
                 <td><img src="App Icon/Apple/Music/@PNG.png" alt="Music" width="100px"></td>
                 <td>Music</td>
                 <td>
@@ -255,7 +255,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 11 </h4></td>
+                <td><h4>11</h4></td>
                 <td><img src="App Icon/Apple/News/@PNG.png" alt="News" width="100px"></td>
                 <td>News</td>
                 <td>
@@ -280,7 +280,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 12 </h4></td>
+                <td><h4>12</h4></td>
                 <td><img src="App Icon/Apple/AirDrop/@PNG.png" alt="AirDrop" width="100px"></td>
                 <td>AirDrop</td>
                 <td>
@@ -305,7 +305,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 13 </h4></td>
+                <td><h4>13</h4></td>
                 <td><img src="App Icon/Apple/Safari/@PNG.png" alt="Safari" width="100px"></td>
                 <td>Safari</td>
                 <td>
@@ -330,7 +330,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 14 </h4></td>
+                <td><h4>14</h4></td>
                 <td><img src="App Icon/Apple/Notes/@PNG.png" alt="Notes" width="100px"></td>
                 <td>Notes</td>
                 <td>
@@ -355,7 +355,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 15 </h4></td>
+                <td><h4>15</h4></td>
                 <td><img src="App Icon/Apple/Calculator/@PNG.png" alt="Calculator" width="100px"></td>
                 <td>Calculator</td>
                 <td>
@@ -380,7 +380,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 16 </h4></td>
+                <td><h4>16</h4></td>
                 <td><img src="App Icon/Apple/Messages/@PNG.png" alt="Messages" width="100px"></td>
                 <td>Messages</td>
                 <td>
@@ -405,7 +405,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 17 </h4></td>
+                <td><h4>17</h4></td>
                 <td><img src="App Icon/Apple/Phone/@PNG.png" alt="Phone" width="100px"></td>
                 <td>Phone</td>
                 <td>
@@ -430,7 +430,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 18 </h4></td>
+                <td><h4>18</h4></td>
                 <td><img src="App Icon/Apple/FaceTime/@PNG.png" alt="FaceTime" width="100px"></td>
                 <td>FaceTime</td>
                 <td>
@@ -455,7 +455,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 19 </h4></td>
+                <td><h4>19</h4></td>
                 <td><img src="App Icon/Apple/Numbers/@PNG.png" alt="Numbers" width="100px"></td>
                 <td>Numbers</td>
                 <td>
@@ -480,7 +480,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 20 </h4></td>
+                <td><h4>20</h4></td>
                 <td><img src="App Icon/Apple/AppleStore/@PNG.png" alt="Apple Store" width="100px"></td>
                 <td>Apple Store</td>
                 <td>
@@ -505,7 +505,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 21 </h4></td>
+                <td><h4>21</h4></td>
                 <td><img src="App Icon/Apple/Books/@PNG.png" alt="Books" width="100px"></td>
                 <td>Books</td>
                 <td>
@@ -530,7 +530,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 22 </h4></td>
+                <td><h4>22</h4></td>
                 <td><img src="App Icon/Apple/Pages/@PNG.png" alt="Pages" width="100px"></td>
                 <td>Pages</td>
                 <td>
@@ -555,7 +555,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 23 </h4></td>
+                <td><h4>23</h4></td>
                 <td><img src="App Icon/Apple/iTunesU/@PNG.png" alt="iTunesU" width="100px"></td>
                 <td>iTunes U</td>
                 <td>
@@ -580,7 +580,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 24 </h4></td>
+                <td><h4>24</h4></td>
                 <td><img src="App Icon/Apple/Camera/@PNG.png" alt="Camera" width="100px"></td>
                 <td>Camera</td>
                 <td>
@@ -605,7 +605,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 25 </h4></td>
+                <td><h4>25</h4></td>
                 <td><img src="App Icon/Apple/Settings/@PNG.png" alt="Settings" width="100px"></td>
                 <td>Settings</td>
                 <td>
@@ -630,7 +630,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 26 </h4></td>
+                <td><h4>26</h4></td>
                 <td><img src="App Icon/Apple/iTunesStore/@PNG.png" alt="iTunesStore" width="100px"></td>
                 <td>iTunes Store</td>
                 <td>
@@ -655,7 +655,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 27 </h4></td>
+                <td><h4>27</h4></td>
                 <td><img src="App Icon/Apple/Clock/@PNG.png" alt="Clock" width="100px"></td>
                 <td>Clock</td>
                 <td>
