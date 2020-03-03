@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>App Icon / Apple / FindMy/@SVG</title>
+    <title>App Icon / Apple / FindMy /@SVG</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
@@ -44,11 +44,10 @@
             </feMerge>
         </filter>
     </defs>
-    <g id="App-Icon-/-Apple-/-FindMy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Background" fill="#FFFFFF" stroke="#F0F0F0" stroke-width="4">
-            <path d="M793,2 L231,2 C167.763396,2 110.513396,27.6316981 69.0725471,69.0725471 C27.6316981,110.513396 2,167.763396 2,231 L2,793 C2,856.236604 27.6316981,913.486604 69.0725471,954.927453 C110.513396,996.368302 167.763396,1022 231,1022 L793,1022 C856.236604,1022 913.486604,996.368302 954.927453,954.927453 C996.368302,913.486604 1022,856.236604 1022,793 L1022,231 C1022,167.763396 996.368302,110.513396 954.927453,69.0725471 C913.486604,27.6316981 856.236604,2 793,2 Z" id="Mask"></path>
-        </g>
-        <g id="Group-2" transform="translate(67.000000, 67.000000)">
+    <g id="App-Icon-/-Apple-/-FindMy-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="Template"></g>
+        <g id="Radar" transform="translate(67.000000, 67.000000)">
             <circle id="Oval" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#linearGradient-1)" cx="445" cy="445" r="443.5"></circle>
             <g id="Oval">
                 <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>

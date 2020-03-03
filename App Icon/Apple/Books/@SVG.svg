@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / Books /@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA700" offset="0%"></stop>
+            <stop stop-color="#F9661E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="App-Icon-/-Apple-/-Books-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Origin-Color" fill="url(#linearGradient-1)" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="Template"></g>
+        <path d="M335,228 C427,228 501,287 501,365 L501,816 C501,816 472,693 332,693 C242,693 186.668851,742.073367 186.668851,742.073367 C174.14919,751.127136 164,745.937236 164,730.473754 L164,316 C164,274 246,228 335,228 Z M689,228 C778,228 860,274 860,316 L860,316 L860,730.473754 C860,745.937236 849.85081,751.127136 837.331149,742.073367 C837.331149,742.073367 782,693 692,693 C552,693 523,816 523,816 L523,816 L523,365 C523,287 597,228 689,228 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+    </g>
+</svg>
