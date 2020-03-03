@@ -85,7 +85,7 @@
             </tr>
             <tr>
                 <td><h4> 4 </h4></td>
-                <td><img src="App Icon/Apple/Health/@PNG.png" alt="Health" width="150px"></td>
+                <td><img src="App Icon/Apple/Health/Light@PNG.png" alt="Health" width="150px"></td>
                 <td>Health</td>
                 <td>
                     <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Health/Light@PNG.png">
@@ -131,7 +131,7 @@
             </tr>
             <tr>
                 <td><h4> 6 </h4></td>
-                <td><img src="App Icon/Apple/Reminders/@PNG.png" alt="Reminders" width="150px"></td>
+                <td><img src="App Icon/Apple/Reminders/Light@PNG.png" alt="Reminders" width="150px"></td>
                 <td>Reminders</td>
                 <td>
                     <div>
