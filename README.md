@@ -13,7 +13,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><h4>1</h4></td>
+                <td><h4 align="center">1</h4></td>
                 <td><img src="/App Icon/Apple/AppStore/@PNG.png" alt="App Store" width="100px"></td>
                 <td>App Store</td>
                 <td>
