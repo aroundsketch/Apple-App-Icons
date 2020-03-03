@@ -11,7 +11,7 @@
                 <th>RAW</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody align="center">
             <tr>
                 <td><h4 align="center">1</h4></td>
                 <td><img src="/App Icon/Apple/AppStore/@PNG.png" alt="App Store" width="100px"></td>
