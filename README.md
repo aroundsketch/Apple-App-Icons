@@ -631,15 +631,15 @@
             </tr>
             <tr>
                 <td><h4> 26 </h4></td>
-                <td><img src="App Icon/Apple/Music/@PNG.png" alt="Reminders" width="150px"></td>
+                <td><img src="App Icon/Apple/iTunesStore/@PNG.png" alt="iTunesStore" width="150px"></td>
                 <td>iTunes Store</td>
                 <td>
                     <div>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Music/@PNG.png">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/iTunesStore/@PNG.png">
                             <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Music/@PDF.pdf">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/iTunesStore/@PDF.pdf">
                             <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Music/@SVG.svg">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/iTunesStore/@SVG.svg">
                             <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
                     </div>
                 </td>
@@ -655,16 +655,16 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4> 10 </h4></td>
-                <td><img src="App Icon/Apple/Music/@PNG.png" alt="Reminders" width="150px"></td>
-                <td>Music</td>
+                <td><h4> 27 </h4></td>
+                <td><img src="App Icon/Apple/Clock/@PNG.png" alt="Clock" width="150px"></td>
+                <td>Clock</td>
                 <td>
                     <div>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Music/@PNG.png">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Apple/Clock/@PNG.png">
                             <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Music/@PDF.pdf">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Clock/@PDF.pdf">
                             <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Music/@SVG.svg">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Apple/Clock/@SVG.svg">
                             <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
                     </div>
                 </td>
