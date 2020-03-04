@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / AirPort /@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-1.64433769%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1AD5FD" offset="0%"></stop>
+            <stop stop-color="#1D63F0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M512,672 C563.202701,672 609.772395,691.83626 644.443597,724.243295 L512,866 L379.555407,724.244226 C414.226713,691.83664 460.796809,672 512,672 Z M512,452 C621.268124,452 720.649224,494.331379 794.638392,563.489227 L719.541099,643.866359 C665.210904,593.08386 592.235464,562 512,562 C431.764639,562 358.789284,593.08378 304.459111,643.866163 L229.361818,563.489031 C303.350964,494.331299 402.731979,452 512,452 Z M512,232 C679.333057,232 831.525162,296.826118 944.832191,402.734228 L869.734688,483.111164 C776.086653,395.578519 650.300293,342 512,342 C373.699216,342 247.912455,395.578898 154.264316,483.112095 L79.1672334,402.734767 C192.474322,296.826338 344.66666,232 512,232 Z" id="path-2"></path>
+        <filter x="-0.2%" y="-0.2%" width="100.3%" height="100.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="App-Icon-/-Apple-/-AirPort-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="Template"></g>
+        <g id="Combined-Shape">
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>
