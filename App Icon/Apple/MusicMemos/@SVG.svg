@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / MusicMemos /@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FB1F0C" offset="0%"></stop>
+            <stop stop-color="#FFD800" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="101.410601%" id="linearGradient-2">
+            <stop stop-color="#DA2323" offset="0%"></stop>
+            <stop stop-color="#022187" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="367.5" cy="367" r="367"></circle>
+    </defs>
+    <g id="App-Icon-/-Apple-/-MusicMemos-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="Template"></g>
+        <path d="M512,67 C757.766714,67 957,266.233286 957,512 C957,757.766714 757.766714,957 512,957 C266.233286,957 67,757.766714 67,512 C67,266.233286 266.233286,67 512,67 Z M512,99 C283.906398,99 99,283.906398 99,512 C99,740.093602 283.906398,925 512,925 C740.093602,925 925,740.093602 925,512 C925,283.906398 740.093602,99 512,99 Z M512,145 C714.688503,145 879,309.311497 879,512 C879,714.688503 714.688503,879 512,879 C309.311497,879 145,714.688503 145,512 C145,309.311497 309.311497,145 512,145 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+        <g id="Group" transform="translate(512.000000, 512.000000) rotate(45.000000) translate(-512.000000, -512.000000) translate(144.500000, 145.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Oval" fill="url(#linearGradient-2)" opacity="0" xlink:href="#path-3"></use>
+            <path d="M147.5,0 L147.5,247 C147.5,295 168.5,287 168.5,326 L168.5,408 C168.5,447 147.5,439 147.5,487 L147.5,734 L133.5,734 L133.5,487 C133.5,439 112.5,447 112.5,408 L112.5,326 C112.5,287 133.5,295 133.5,247 L133.5,0 L147.5,0 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-4)"></path>
+            <path d="M238.5,0 L238.5,179 C238.5,227 259.5,219 259.5,258 L259.5,476 C259.5,515 238.5,507 238.5,555 L238.5,734 L224.5,734 L224.5,555 C224.5,507 203.5,515 203.5,476 L203.5,258 C203.5,219 224.5,227 224.5,179 L224.5,0 L238.5,0 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-4)"></path>
+            <path d="M329.5,0 L329.5,61 C329.5,109 350.5,101 350.5,140 L350.5,594 C350.5,633 329.5,625 329.5,673 L329.5,734 L315.5,734 L315.5,673 C315.5,625 294.5,633 294.5,594 L294.5,140 C294.5,101 315.5,109 315.5,61 L315.5,0 L329.5,0 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-4)"></path>
+            <path d="M420.5,0 L420.5,179 C420.5,227 441.5,219 441.5,258 L441.5,476 C441.5,515 420.5,507 420.5,555 L420.5,734 L406.5,734 L406.5,555 C406.5,507 385.5,515 385.5,476 L385.5,258 C385.5,219 406.5,227 406.5,179 L406.5,0 L420.5,0 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-4)"></path>
+            <path d="M511.5,0 L511.5,249 C511.5,297 532.5,289 532.5,328 L532.5,406 C532.5,445 511.5,437 511.5,485 L511.5,734 L497.5,734 L497.5,485 C497.5,437 476.5,445 476.5,406 L476.5,328 C476.5,289 497.5,297 497.5,249 L497.5,0 L511.5,0 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-4)"></path>
+            <path d="M602.5,0 L602.5,272 C602.5,320 623.5,312 623.5,351 L623.5,383 C623.5,422 602.5,414 602.5,462 L602.5,734 L588.5,734 L588.5,462 C588.5,414 567.5,422 567.5,383 L567.5,351 C567.5,312 588.5,320 588.5,272 L588.5,0 L602.5,0 Z" id="Combined-Shape" fill="#FFFFFF" mask="url(#mask-4)"></path>
+        </g>
+    </g>
+</svg>

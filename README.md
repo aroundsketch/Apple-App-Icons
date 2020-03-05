@@ -1004,7 +1004,7 @@
                 <td></td>
                 <td></td>
             </tr>
-             <tr>
+            <tr>
                 <td><h4>41</h4></td>
                 <td><img src="App Icon/Apple/VoiceMemos/@PNG.png" alt="Voice Memos" width="100px"></td>
                 <td>Voice Memos</td>
@@ -1015,6 +1015,31 @@
                         <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/VoiceMemos/@PDF.pdf">
                             <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
                         <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/VoiceMemos/@SVG.svg">
+                            <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
+                    </div>
+                </td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
+                    <img src="Badge/Sketch/@SVG.svg" alt="Sketch Badge" width="120px"></a>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><h4>42</h4></td>
+                <td><img src="App Icon/Apple/MusicMemos/@PNG.png" alt="Music Memos" width="100px"></td>
+                <td>Music Memos</td>
+                <td>
+                    <div>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/MusicMemos/@PNG.png">
+                            <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/MusicMemos/@PDF.pdf">
+                            <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/MusicMemos/@SVG.svg">
                             <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
                     </div>
                 </td>
