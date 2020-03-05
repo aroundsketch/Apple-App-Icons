@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / Clips /@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9988FA" offset="0%"></stop>
+            <stop stop-color="#46D2FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="App-Icon-/-Apple-/-Clips-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="Template"></g>
+        <circle id="Oval" fill="url(#linearGradient-1)" cx="512" cy="512" r="446"></circle>
+        <path d="M584,357 C608.300529,357 628,376.699471 628,401 L628,623 C628,647.300529 608.300529,667 584,667 L308,667 C283.699471,667 264,647.300529 264,623 L264,401 C264,376.699471 283.699471,357 308,357 L584,357 Z M757,393 L757,635 L640,557 L640,465 L757,393 Z M785,393 L785,635 L769,635 L769,393 L785,393 Z M256,429 L256,470 L248,470 C243.581722,470 240,466.418278 240,462 L240,437 C240,432.581722 243.581722,429 248,429 L256,429 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+    </g>
+</svg>
