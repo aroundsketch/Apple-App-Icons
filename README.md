@@ -1081,15 +1081,15 @@
             </tr>
             <tr>
                 <td><h4>44</h4></td>
-                <td><img src="App Icon/Apple/TeftFlight/@PNG.png" alt="Test Flight" width="100px"></td>
+                <td><img src="App Icon/Apple/TestFlight/@PNG.png" alt="Test Flight" width="100px"></td>
                 <td>Test Flight</td>
                 <td>
                     <div>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/TeftFlight/@PNG.png">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/TestFlight/@PNG.png">
                             <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/TeftFlight/@PDF.pdf">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/TestFlight/@PDF.pdf">
                             <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
-                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/TeftFlight/@SVG.svg">
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/TestFlight/@SVG.svg">
                             <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
                     </div>
                 </td>
