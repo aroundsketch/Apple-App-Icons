@@ -1179,6 +1179,31 @@
                 <td></td>
                 <td></td>
             </tr>
+            <tr>
+                <td><h4>48</h4></td>
+                <td><img src="App Icon/Apple/Trailers/@PNG.png" alt="Trailers" width="100px"></td>
+                <td>Movie Trailers</td>
+                <td>
+                    <div>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Trailers/@PNG.png">
+                            <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Trailers/@PDF.pdf">
+                            <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Trailers/@SVG.svg">
+                            <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
+                    </div>
+                </td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
+                    <img src="Badge/Sketch/@SVG.svg" alt="Sketch Badge" width="120px"></a>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
         </tbody>
     </table>
 </body>
