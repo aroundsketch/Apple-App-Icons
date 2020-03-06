@@ -1054,6 +1054,106 @@
                 <td></td>
                 <td></td>
             </tr>
+            <tr>
+                <td><h4>43</h4></td>
+                <td><img src="App Icon/Apple/iTunesRemote/@PNG.png" alt="iTunes Remote" width="100px"></td>
+                <td>iTunes Remote</td>
+                <td>
+                    <div>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/iTunesRemote/@PNG.png">
+                            <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/iTunesRemote/@PDF.pdf">
+                            <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/iTunesRemote/@SVG.svg">
+                            <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
+                    </div>
+                </td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
+                    <img src="Badge/Sketch/@SVG.svg" alt="Sketch Badge" width="120px"></a>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><h4>44</h4></td>
+                <td><img src="App Icon/Apple/TeftFlight/@PNG.png" alt="Test Flight" width="100px"></td>
+                <td>Test Flight</td>
+                <td>
+                    <div>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/TeftFlight/@PNG.png">
+                            <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/TeftFlight/@PDF.pdf">
+                            <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/TeftFlight/@SVG.svg">
+                            <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
+                    </div>
+                </td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
+                    <img src="Badge/Sketch/@SVG.svg" alt="Sketch Badge" width="120px"></a>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><h4>45</h4></td>
+                <td><img src="App Icon/Apple/AppleTV/@PNG.png" alt="Apple TV" width="100px"></td>
+                <td>Apple TV</td>
+                <td>
+                    <div>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/AppleTV/@PNG.png">
+                            <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/AppleTV/@PDF.pdf">
+                            <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/AppleTV/@SVG.svg">
+                            <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
+                    </div>
+                </td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
+                    <img src="Badge/Sketch/@SVG.svg" alt="Sketch Badge" width="120px"></a>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><h4>46</h4></td>
+                <td><img src="App Icon/Apple/Compass/@PNG.png" alt="Compass" width="100px"></td>
+                <td>Compass</td>
+                <td>
+                    <div>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/blob/master/App%20Icon/Compass/@PNG.png">
+                            <img src="Badge/PNG/@SVG.svg" alt="PNG Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Compass/@PDF.pdf">
+                            <img src="Badge/PDF/@SVG.svg" alt="PDF Badge" width="65px"></a>
+                        <a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/App%20Icon/Compass/@SVG.svg">
+                            <img src="Badge/SVG/@SVG.svg" alt="SVG Badge" width="65px"></a>
+                    </div>
+                </td>
+                <td><a href="https://github.com/aroundsketch/Apple-App-Icons/raw/master/Apple-App-Icon-iOS-13.sketch">
+                    <img src="Badge/Sketch/@SVG.svg" alt="Sketch Badge" width="120px"></a>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
         </tbody>
     </table>
 </body>

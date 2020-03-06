@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / Compass /@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <g id="App-Icon-/-Apple-/-Compass-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Origin-Color" fill="#171717" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="Template"></g>
+        <g id="Group-4" transform="translate(332.000000, 332.000000)" fill="#D8D8D8">
+            <circle id="Oval" opacity="0.05" cx="180" cy="180" r="180"></circle>
+            <path d="M189,0 L189,171 L360,171 L360,189 L189,189 L189,360 L171,360 L171,189 L0,189 L0,171 L171,171 L171,0 L189,0 Z" id="Combined-Shape" opacity="0.517438616"></path>
+        </g>
+        <g id="Group-2" transform="translate(891.009235, 132.990765) rotate(45.000000) translate(-891.009235, -132.990765) translate(835.009235, 83.990765)" fill="#FF3B30">
+            <path d="M60.3412157,7.59712749 L107.725317,90.5193053 C109.095367,92.9168925 108.262384,95.9711659 105.864796,97.3412157 C105.109308,97.7729234 104.254236,98 103.384102,98 L8.61589839,98 C5.85447464,98 3.61589839,95.7614237 3.61589839,93 C3.61589839,92.1298653 3.84297498,91.2747938 4.27468268,90.5193053 L51.6587843,7.59712749 C53.0288341,5.19954026 56.0831075,4.36655663 58.4806947,5.73660647 C59.2558511,6.17955298 59.8982692,6.82197111 60.3412157,7.59712749 Z" id="Rectangle"></path>
+        </g>
+        <g id="Group-3" transform="translate(261.500000, 244.000000)" fill="#FFFFFF" font-family="SFProDisplay-Semibold, SF Pro Display" font-size="128" font-weight="500" letter-spacing="1.12705085">
+            <text id="W">
+                <tspan x="0.123974576" y="122">W</tspan>
+            </text>
+            <text id="N">
+                <tspan x="394.561475" y="122">N</tspan>
+            </text>
+            <text id="E">
+                <tspan x="403.748975" y="505">E</tspan>
+            </text>
+            <text id="S">
+                <tspan x="20.9364746" y="505">S</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(62.500000, 62.511884)" fill="#FFFFFF">
+            <rect id="Rectangle" fill-opacity="0.5" x="445.5" y="0.488115594" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(503.081002, 42.500000) rotate(7.000000) translate(-503.081002, -42.500000) " x="499.081002" y="4" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(555.745218, 52.975564) rotate(15.000000) translate(-555.745218, -52.975564) " x="551.745218" y="14.4755639" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(606.591549, 70.235567) rotate(23.000000) translate(-606.591549, -70.235567) " x="602.591549" y="31.7355675" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(654.750000, 93.984687) rotate(30.000000) translate(-654.750000, -93.984687) " x="650.75" y="55.4846873" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(699.396567, 123.816569) rotate(37.000000) translate(-699.396567, -123.816569) " x="695.396567" y="85.3165694" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(739.767334, 159.220782) rotate(45.000000) translate(-739.767334, -159.220782) " x="735.767334" y="120.720782" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(775.171546, 199.591549) rotate(53.000000) translate(-775.171546, -199.591549) " x="771.171546" y="161.091549" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(805.003428, 244.238116) rotate(60.000000) translate(-805.003428, -244.238116) " x="801.003428" y="205.738116" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(828.752548, 292.396567) rotate(68.000000) translate(-828.752548, -292.396567) " x="824.752548" y="253.896567" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(846.012552, 343.242898) rotate(75.000000) translate(-846.012552, -343.242898) " x="842.012552" y="304.742898" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(856.488116, 395.907114) rotate(83.000000) translate(-856.488116, -395.907114) " x="852.488116" y="357.407114" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(860.000000, 449.488116) rotate(90.000000) translate(-860.000000, -449.488116) " x="856" y="410.988116" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(856.488116, 503.069118) rotate(97.000000) translate(-856.488116, -503.069118) " x="852.488116" y="464.569118" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(846.012552, 555.733334) rotate(105.000000) translate(-846.012552, -555.733334) " x="842.012552" y="517.233334" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(828.752548, 606.579665) rotate(112.000000) translate(-828.752548, -606.579665) " x="824.752548" y="568.079665" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(805.003428, 654.738116) rotate(120.000000) translate(-805.003428, -654.738116) " x="801.003428" y="616.238116" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(775.171546, 699.384682) rotate(127.000000) translate(-775.171546, -699.384682) " x="771.171546" y="660.884682" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(739.767334, 739.755449) rotate(135.000000) translate(-739.767334, -739.755449) " x="735.767334" y="701.255449" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(699.396567, 775.159662) rotate(143.000000) translate(-699.396567, -775.159662) " x="695.396567" y="736.659662" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(654.750000, 804.991544) rotate(150.000000) translate(-654.750000, -804.991544) " x="650.75" y="766.491544" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(606.591549, 828.740664) rotate(158.000000) translate(-606.591549, -828.740664) " x="602.591549" y="790.240664" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(555.745218, 846.000667) rotate(165.000000) translate(-555.745218, -846.000667) " x="551.745218" y="807.500667" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(503.081002, 856.476231) rotate(172.000000) translate(-503.081002, -856.476231) " x="499.081002" y="817.976231" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(449.500000, 859.988116) rotate(180.000000) translate(-449.500000, -859.988116) " x="445.5" y="821.488116" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(395.918998, 856.476231) rotate(188.000000) translate(-395.918998, -856.476231) " x="391.918998" y="817.976231" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(343.254782, 846.000667) rotate(195.000000) translate(-343.254782, -846.000667) " x="339.254782" y="807.500667" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(292.408451, 828.740664) rotate(202.000000) translate(-292.408451, -828.740664) " x="288.408451" y="790.240664" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(244.250000, 804.991544) rotate(210.000000) translate(-244.250000, -804.991544) " x="240.25" y="766.491544" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(199.603433, 775.159662) rotate(217.000000) translate(-199.603433, -775.159662) " x="195.603433" y="736.659662" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(159.232666, 739.755449) rotate(225.000000) translate(-159.232666, -739.755449) " x="155.232666" y="701.255449" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(123.828454, 699.384682) rotate(233.000000) translate(-123.828454, -699.384682) " x="119.828454" y="660.884682" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(93.996572, 654.738116) rotate(240.000000) translate(-93.996572, -654.738116) " x="89.9965717" y="616.238116" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(70.247452, 606.579665) rotate(247.000000) translate(-70.247452, -606.579665) " x="66.2474519" y="568.079665" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(52.987448, 555.733334) rotate(255.000000) translate(-52.987448, -555.733334) " x="48.9874483" y="517.233334" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(42.511884, 503.069118) rotate(262.000000) translate(-42.511884, -503.069118) " x="38.5118844" y="464.569118" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(39.000000, 449.488116) rotate(270.000000) translate(-39.000000, -449.488116) " x="35" y="410.988116" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(42.511884, 395.907114) rotate(278.000000) translate(-42.511884, -395.907114) " x="38.5118844" y="357.407114" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(52.987448, 343.242898) rotate(285.000000) translate(-52.987448, -343.242898) " x="48.9874483" y="304.742898" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(70.247452, 292.396567) rotate(293.000000) translate(-70.247452, -292.396567) " x="66.2474519" y="253.896567" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(93.996572, 244.238116) rotate(300.000000) translate(-93.996572, -244.238116) " x="89.9965717" y="205.738116" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(123.828454, 199.591549) rotate(307.000000) translate(-123.828454, -199.591549) " x="119.828454" y="161.091549" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(159.232666, 159.220782) rotate(315.000000) translate(-159.232666, -159.220782) " x="155.232666" y="120.720782" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(199.603433, 123.816569) rotate(323.000000) translate(-199.603433, -123.816569) " x="195.603433" y="85.3165694" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(244.250000, 93.984687) rotate(330.000000) translate(-244.250000, -93.984687) " x="240.25" y="55.4846873" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(292.408451, 70.235567) rotate(338.000000) translate(-292.408451, -70.235567) " x="288.408451" y="31.7355675" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle-W" transform="translate(343.254782, 52.975564) rotate(345.000000) translate(-343.254782, -52.975564) " x="339.254782" y="14.4755639" width="8" height="77" rx="4"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" transform="translate(395.918998, 42.500000) rotate(352.000000) translate(-395.918998, -42.500000) " x="391.918998" y="4" width="8" height="77" rx="4"></rect>
+        </g>
+    </g>
+</svg>

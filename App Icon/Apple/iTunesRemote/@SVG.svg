@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / iTunesRemote /@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#58AEFF" offset="0%"></stop>
+            <stop stop-color="#0066E2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.0030244%" y1="0%" x2="50%" y2="75.4906945%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.895241477" offset="70.7985665%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="App-Icon-/-Apple-/-iTunesRemote-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Origin-Color" fill="url(#linearGradient-1)" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="Template"></g>
+        <path d="M342.070959,232.454248 L781.353365,487.792396 C794.722856,495.563572 799.261186,512.701469 791.49001,526.070959 C789.047986,530.272205 785.554611,533.76558 781.353365,536.207604 L342.070959,791.545752 C328.701469,799.316928 311.563572,794.778598 303.792396,781.409107 C301.30845,777.13574 300,772.280986 300,767.338148 L300,256.661852 C300,241.197879 312.536027,228.661852 328,228.661852 C332.942838,228.661852 337.797592,229.970302 342.070959,232.454248 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>
