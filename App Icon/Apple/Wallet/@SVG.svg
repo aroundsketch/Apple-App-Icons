@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>App Icon / Apple / Wallet /@SVG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="768" height="576" rx="71"></rect>
+        <rect id="path-3" x="32" y="96" width="704" height="456" rx="44"></rect>
+        <filter x="-5.0%" y="-9.9%" width="109.9%" height="115.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.13 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="32" y="160" width="704" height="392" rx="44"></rect>
+        <filter x="-5.0%" y="-11.5%" width="109.9%" height="117.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="-10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.13 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="32" y="224" width="704" height="328" rx="44"></rect>
+        <filter x="-5.0%" y="-13.7%" width="109.9%" height="121.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="-10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.13 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M207,288 C267.667445,288.493231 284.313432,312.94914 301.5,336.5 C319.158279,360.697249 337.123892,384 384,384 L384,384 L385.397639,383.993032 C431.23539,383.533856 449.018303,360.455277 466.5,336.5 L466.5,336.5 L467.530902,335.086061 C484.370016,311.980488 501.545904,288.483367 561,288 L561,288 L768,288 L768,506 C768,544.659932 736.659932,576 698,576 L70,576 C31.3400675,576 0,544.659932 0,506 L0,288 Z" id="path-9"></path>
+        <filter x="-4.6%" y="-15.6%" width="109.1%" height="124.3%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="-10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="App-Icon-/-Apple-/-Wallet-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Origin-Color" fill="#171717" x="0" y="0" width="1024" height="1024"></rect>
+        <g id="Template"></g>
+        <g id="Group" transform="translate(128.000000, 224.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle" fill="#E0DED6" xlink:href="#path-1"></use>
+            <rect id="Blue" fill="#3EA4D6" mask="url(#mask-2)" x="32" y="32" width="704" height="520" rx="44"></rect>
+            <g id="Yellow" mask="url(#mask-2)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFB431" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <g id="Green" mask="url(#mask-2)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#59BE4C" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <g id="Red" mask="url(#mask-2)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="#F37869" fill-rule="evenodd" xlink:href="#path-7"></use>
+            </g>
+            <g id="Combined-Shape" mask="url(#mask-2)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                <use fill="#E0DED6" fill-rule="evenodd" xlink:href="#path-9"></use>
+            </g>
+        </g>
+    </g>
+</svg>
