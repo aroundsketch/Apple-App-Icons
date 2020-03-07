@@ -7,24 +7,24 @@ html {
   }
 }
 
-.container {
-  max-width: 960px;
-}
-
 .pricing-header {
   max-width: 700px;
 }
 
-.card-deck .card {
-  min-width: 220px;
+.card {
+  min-width: 236px;
 }
 
 .icon-formating {
-    width: 128px;
-    border: solid 1px #F0F0F0;
-    border-radius: 30px;
-    box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.03);
+    width: 145px;
+    border: solid 1.5px #F0F0F0;
+    border-radius: 33px;
+    /* box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.03); */
 }
-.icon-formating:hover {
+/* .icon-formating:hover {
+    box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.1);
+} */
+
+.hover:hover {
     box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.1);
 }
