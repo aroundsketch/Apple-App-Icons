@@ -1205,7 +1205,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td><h4>48</h4></td>
+                <td><h4>49</h4></td>
                 <td><img src="App Icon/Apple/Wallet/@PNG.png" alt="Wallet" width="100px"></td>
                 <td>Wallet</td>
                 <td>
