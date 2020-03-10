@@ -13,7 +13,7 @@ $(document).ready(function () {
                 // console.log(lastCommitDate);
                 var lastCommitDateFormat = lastCommitDate.slice(0, 10);
                 // console.log(lastCommitDateFormat);
-                $('#commitDate').html("Last update: " + lastCommitDateFormat + ". 49 icons already inside. Enjoy 😎");
+                $('#commitDate').html("Last update: " + lastCommitDateFormat + ". Already inside: 49 icons. Enjoy 😎");
             }
         }
     });
