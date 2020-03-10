@@ -19,8 +19,13 @@ html {
     width: 145px;
     border: solid 1.5px #F0F0F0;
     border-radius: 33px;
-    cursor: pointer;
+    cursor: pointer; 
     /* box-shadow: 0 4px 8px 0 rgba(2, 68, 22, 0.03); */
+}
+
+.icon-modal {
+    padding: 10px;
+    background-color: white;
 }
 
 /* .icon-formating:hover {
