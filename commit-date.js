@@ -13,7 +13,7 @@ $(document).ready(function () {
                 // console.log(lastCommitDate);
                 var lastCommitDateFormat = lastCommitDate.slice(0, 10);
                 // console.log(lastCommitDateFormat);
-                $('#commitDate').html(lastCommitDateFormat);
+                $('#commitDate').html(lastCommitDateFormat + ".");
             }
         }
     });
