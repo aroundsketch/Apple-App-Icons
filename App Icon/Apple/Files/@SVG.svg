@@ -29,7 +29,6 @@
     </defs>
     <g id="App-Icon-/-Apple-/-Files-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
         <g id="Folder" transform="translate(128.000000, 215.000000)">
             <path d="M0.913983448,541.992185 C0.961489078,570.163023 23.8246262,593 51.99347,593 L717.00653,593 C745.169446,593 768,570.163264 768,542.000566 L768,103.999434 C768,75.8332244 745.175468,53 716.993182,53 L287.659807,53 C245,53 234,0 196,0 L51.0010035,0 C22.833927,0 0.0385121623,22.8377123 0.086016552,51.0078153 L0.913983448,541.992185 Z" id="path4873" fill="url(#linearGradient-1)"></path>
             <g id="Rectangle-2">

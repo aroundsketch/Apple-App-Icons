@@ -9,33 +9,32 @@
         <filter x="-52.7%" y="-20.5%" width="205.5%" height="152.7%" filterUnits="objectBoundingBox" id="filter-4">
             <feOffset dx="0" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <rect id="path-5" x="896" y="255" width="128" height="256"></rect>
         <filter x="-52.7%" y="-20.5%" width="205.5%" height="152.7%" filterUnits="objectBoundingBox" id="filter-6">
             <feOffset dx="0" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <rect id="path-7" x="896" y="0" width="128" height="256"></rect>
         <filter x="-52.7%" y="-20.5%" width="205.5%" height="152.7%" filterUnits="objectBoundingBox" id="filter-8">
             <feOffset dx="0" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <rect id="path-9" x="0" y="0" width="896" height="1024"></rect>
         <filter x="-5.9%" y="-6.6%" width="115.1%" height="113.2%" filterUnits="objectBoundingBox" id="filter-10">
             <feOffset dx="15" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
             <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="App-Icon-/-Apple-/-Contacts-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
         </mask>
-        <use id="Origin-Color" fill="#DFDDD6" xlink:href="#path-1"></use>
-        <g id="Template" mask="url(#mask-2)"></g>
+        <use id="Origin-Color" fill="#FFFFFF" xlink:href="#path-1"></use>
         <g id="Group" mask="url(#mask-2)">
             <rect id="Rectangle-Copy-3" fill="#4CD964" x="896" y="767" width="128" height="256"></rect>
             <g id="Rectangle-Copy-2">

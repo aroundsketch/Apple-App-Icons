@@ -39,7 +39,6 @@
     </defs>
     <g id="App-Icon-/-Apple-/-Photos-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
         <g id="The-Petals" transform="translate(67.500000, 68.000000)">
             <rect id="Orange" fill="url(#linearGradient-1)" style="mix-blend-mode: multiply;" x="307.5" y="0" width="274" height="418" rx="137"></rect>
             <rect id="Orange" fill="url(#linearGradient-2)" style="mix-blend-mode: multiply;" transform="translate(611.023647, 277.976353) rotate(45.000000) translate(-611.023647, -277.976353) " x="474.023647" y="68.976353" width="274" height="418" rx="137"></rect>

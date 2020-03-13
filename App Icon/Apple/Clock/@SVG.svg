@@ -11,7 +11,6 @@
     </defs>
     <g id="App-Icon-/-Apple-/-Clock-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#1E1E1F" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
         <g id="Clock-Icon" transform="translate(67.000000, 67.000000)">
             <g id="Icon" transform="translate(0.266667, 0.266667)">
                 <circle id="Oval" fill="url(#linearGradient-1)" cx="444.733333" cy="444.733333" r="444"></circle>

@@ -18,7 +18,6 @@
     </defs>
     <g id="App-Icon-/-Apple-/-AirPort-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
         <g id="Combined-Shape">
             <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
             <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>

@@ -5,7 +5,6 @@
     <desc>Created with Sketch.</desc>
     <g id="App-Icon-/-Apple-/-AirDrop-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
         <g id="AirDrop" transform="translate(17.000000, 36.000000)">
             <circle id="Oval" fill="#007AFF" cx="495" cy="495" r="24"></circle>
             <path d="M495,575 C539.18278,575 575,539.18278 575,495 C575,450.81722 539.18278,415 495,415 C450.81722,415 415,450.81722 415,495 C415,539.18278 450.81722,575 495,575 Z" id="Oval" stroke="#007AFF" stroke-width="44.9122807" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="385,125" transform="translate(495.000000, 495.000000) rotate(-42.000000) translate(-495.000000, -495.000000) "></path>

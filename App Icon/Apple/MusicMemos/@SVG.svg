@@ -16,7 +16,6 @@
     </defs>
     <g id="App-Icon-/-Apple-/-MusicMemos-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
         <path d="M512,67 C757.766714,67 957,266.233286 957,512 C957,757.766714 757.766714,957 512,957 C266.233286,957 67,757.766714 67,512 C67,266.233286 266.233286,67 512,67 Z M512,99 C283.906398,99 99,283.906398 99,512 C99,740.093602 283.906398,925 512,925 C740.093602,925 925,740.093602 925,512 C925,283.906398 740.093602,99 512,99 Z M512,145 C714.688503,145 879,309.311497 879,512 C879,714.688503 714.688503,879 512,879 C309.311497,879 145,714.688503 145,512 C145,309.311497 309.311497,145 512,145 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
         <g id="Group" transform="translate(512.000000, 512.000000) rotate(45.000000) translate(-512.000000, -512.000000) translate(144.500000, 145.000000)">
             <mask id="mask-4" fill="white">

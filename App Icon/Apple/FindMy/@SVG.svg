@@ -46,7 +46,6 @@
     </defs>
     <g id="App-Icon-/-Apple-/-FindMy-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#FFFFFF" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
         <g id="Radar" transform="translate(67.000000, 67.000000)">
             <circle id="Oval" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#linearGradient-1)" cx="445" cy="445" r="443.5"></circle>
             <g id="Oval">

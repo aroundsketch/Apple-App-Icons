@@ -32,7 +32,6 @@
     </defs>
     <g id="App-Icon-/-Apple-/-Wallet-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#171717" x="0" y="0" width="1024" height="1024"></rect>
-        <g id="Template"></g>
         <g id="Group" transform="translate(128.000000, 224.000000)">
             <mask id="mask-2" fill="white">
                 <use xlink:href="#path-1"></use>
