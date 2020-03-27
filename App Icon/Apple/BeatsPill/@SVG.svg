@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
-    <title>App Icon / Apple / Beats Pill /@SVG</title>
+    <title>App Icon / Apple / BeatsPill /@SVG</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M512,234 C664.982876,234 789,358.017124 789,511 C789,663.982876 664.982876,788 512,788 C359.017124,788 235,663.982876 235,511 C235,408.265262 290.928176,318.593249 373.998489,270.769999 L374,511 C374,587.76758 436.23242,650 513,650 C589.76758,650 652,587.76758 652,511 C652,434.23242 589.76758,372 513,372 C480.984975,372 451.49792,382.823524 427.998398,401.011007 L427.998398,401.011007 L427.998959,246.965827 C454.493505,238.544169 482.716079,234 512,234 Z M512.5,428 C558.063492,428 595,464.936508 595,510.5 C595,556.063492 558.063492,593 512.5,593 C466.936508,593 430,556.063492 430,510.5 C430,464.936508 466.936508,428 512.5,428 Z" id="path-1"></path>
     </defs>
-    <g id="App-Icon-/-Apple-/-Beats-Pill-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="App-Icon-/-Apple-/-BeatsPill-/" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Origin-Color" fill="#504F4F" x="0" y="0" width="1024" height="1024"></rect>
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"></use>
