@@ -1,5 +1,5 @@
 # Apple-App-Icons
 ---
 <body align="center">
-    <img src="/Artboard@PNG.jpg">
+    <img src="/Artboards/Artboard@PNG.jpg">
 </body>
