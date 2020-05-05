@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
     <title>App Icon / Apple / RealityComposer /@SVG</title>
-    <desc>Created with Sketch.</desc>
     <defs>
         <path d="M0,-2.27373675e-13 L300,174 L300,522.5 L8.96907438,353.702063 C3.41728942,350.482028 7.8598041e-16,344.549519 0,338.131502 L0,-2.27373675e-13 L0,-2.27373675e-13 Z" id="path-1"></path>
         <path d="M0,-2.27373675e-13 L300,174 L300,522.5 L8.96907438,353.702063 C3.41728942,350.482028 7.8598041e-16,344.549519 0,338.131502 L0,-2.27373675e-13 L0,-2.27373675e-13 Z" id="path-3"></path>
@@ -42,8 +40,8 @@
                 </mask>
                 <use id="Rectangle" fill="#D4D4D4" xlink:href="#path-5"></use>
                 <polygon id="Rectangle" fill="#C5C5C5" mask="url(#mask-6)" points="93 106.5 401.5 284.5 401.5 292.5 93 114.5"></polygon>
-                <polygon id="Rectangle-Copy-4" fill="#C5C5C5" mask="url(#mask-6)" transform="translate(242.250000, 140.500000) scale(1, -1) translate(-242.250000, -140.500000) " points="88 47.5 396.5 225.5 396.5 233.5 88 55.5"></polygon>
-                <polygon id="Rectangle-Copy-5" fill="#C5C5C5" mask="url(#mask-6)" transform="translate(344.250000, 200.500000) scale(1, -1) translate(-344.250000, -200.500000) " points="190 107.5 498.5 285.5 498.5 293.5 190 115.5"></polygon>
+                <polygon id="Rectangle-Copy-14" fill="#C5C5C5" mask="url(#mask-6)" points="88.4965423 225.172631 398.455509 46.5 398.455509 54.5 88.4965423 233.172631"></polygon>
+                <polygon id="Rectangle-Copy-15" fill="#C5C5C5" mask="url(#mask-6)" points="188.75 286.172631 498.708967 107.5 498.708967 115.5 188.75 294.172631"></polygon>
                 <polygon id="Rectangle-Copy-3" fill="#C5C5C5" mask="url(#mask-6)" points="194 46.5 502.5 224.5 502.5 232.5 194 54.5"></polygon>
             </g>
         </g>
