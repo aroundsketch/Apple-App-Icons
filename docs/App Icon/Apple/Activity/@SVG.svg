@@ -12,14 +12,14 @@
             <feGaussianBlur stdDeviation="56" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
-        <circle id="path-3" cx="272" cy="272" r="272"></circle>
-        <filter x="-36.9%" y="-32.3%" width="164.5%" height="164.5%" filterUnits="objectBoundingBox" id="filter-4">
+        <circle id="path-3" cx="269" cy="269" r="269"></circle>
+        <filter x="-37.0%" y="-32.3%" width="164.7%" height="164.7%" filterUnits="objectBoundingBox" id="filter-4">
             <feMorphology radius="47.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
             <feOffset dx="-25" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
             <feMorphology radius="47.5" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
             <feOffset dx="-25" dy="0" in="shadowInner" result="shadowInner"></feOffset>
             <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
-            <feGaussianBlur stdDeviation="38.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feGaussianBlur stdDeviation="38" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <circle id="path-5" cx="142" cy="142" r="142"></circle>
@@ -44,13 +44,13 @@
                 </g>
                 <path d="M396,792 C614.704761,792 792,614.704761 792,396 C792,177.295239 614.704761,0 396,0 C177.295239,0 0,177.295239 0,396 C0,614.704761 177.295239,792 396,792 Z" id="Oval-Copy-10" stroke="" stroke-width="95" stroke-dasharray="1243.440024880802,1455880.897058823"></path>
             </g>
-            <g id="Group" transform="translate(124.000000, 124.000000)">
-                <circle id="Oval" stroke="" stroke-width="95" cx="272" cy="272" r="272"></circle>
-                <g id="Oval-Copy-7" stroke-dasharray="427.0400046764964,999999">
+            <g id="Group" transform="translate(127.000000, 127.000000)">
+                <circle id="Oval" stroke="" stroke-width="95" cx="269" cy="269" r="269"></circle>
+                <g id="Oval-Copy-7" stroke-dasharray="422.3300084506764,988969.5992647059">
                     <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                     <use stroke="" stroke-width="95" xlink:href="#path-3"></use>
                 </g>
-                <path d="M272,544 C422.221452,544 544,422.221452 544,272 C544,121.778548 422.221452,0 272,0 C121.778548,0 0,121.778548 0,272 C0,422.221452 121.778548,544 272,544 Z" id="Oval-Copy-10" stroke="" stroke-width="95" stroke-dasharray="854.08,999999"></path>
+                <path d="M269,538 C417.564598,538 538,417.564598 538,269 C538,120.435402 417.564598,-1.8189894e-12 269,-1.8189894e-12 C120.435402,-1.8189894e-12 0,120.435402 0,269 C0,417.564598 120.435402,538 269,538 Z" id="Oval-Copy-10" stroke="" stroke-width="95" stroke-dasharray="844.6600169013528,988969.5992647059"></path>
             </g>
             <g id="Group-6" transform="translate(254.000000, 254.000000)">
                 <circle id="Oval" stroke="" stroke-width="95" cx="142" cy="142" r="142"></circle>
