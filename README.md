@@ -5,4 +5,7 @@
 </body>
 
 
-You can download and use it free for personal project. I hope you like it and don't forget to spread the world.
+> You can download and use it free for personal project. I hope you like it and don't forget to spread the world.
+
+
+> All icons are 100% customizable and are created using vector shapes.
