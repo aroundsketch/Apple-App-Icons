@@ -1,0 +1,19 @@
+<div class="p-2">
+  <a href="/" class="text-dark"><h3 class="float-md-start mb-0">{{ site.title }}</h3></a>
+  <nav class="nav nav-masthead justify-content-center float-md-end py-3 p-md-0">{% if page.url == "/" %}
+    <a class="nav-link active" aria-current="page" href="/">Home</a>
+    {% else %}
+    <a class="nav-link" href="/">Home</a>
+    {% endif %}
+    {% if page.url == "/about/" %}
+    <a class="nav-link active" aria-current="page" href="/about">About</a>
+    {% else %}
+    <a class="nav-link" href="/about">About</a>
+    {% endif %}
+    {% if page.url == "/contact/" %}
+    <a class="nav-link active" aria-current="page" href="/">Contact</a>
+    {% else %}
+    <a class="nav-link" href="/contact">Contact</a>
+    {% endif %}
+  </nav>
+</div>

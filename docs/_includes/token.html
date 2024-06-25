@@ -1,0 +1,28 @@
+{% assign token = site.data.top-crypto-logos.{[page.ser]}[0] %}
+<div class="container-960 pt-md-5 mx-auto">
+  <div class="row">
+    <div class="col-md-6 col-lg-8">
+      <h1>{{ token.name }}</h1>
+      <p>{{ token.name }} Logo Preview</p>
+    </div>
+  </div>
+  <div class="row gx-lg-5">
+    <div class="col-lg-8 mb-4">
+      <div class="icon-demo mb-4 border rounded-3 d-flex align-items-center justify-content-center p-3 py-6" style="font-size: 10em" role="img" aria-label="{{ token.name }} - large preview">
+        <img width="180" height="180" src="/assets/img/crypto-tokens-logos/{{ token.url }}.svg" alt="{{ token.name }} Logo Preview">
+      </div>
+    </div>
+    <div class="col-lg-4 mb-4">
+      <h2 class="fs-3">Download</h2>
+      <p>Download the SVG to use or edit.</p>
+      <a href="/assets/img/crypto-tokens-logos/{{ token.url }}.svg" class="btn btn-outline-primary mb-4" download="{{ token.url }}.svg">Download SVG</a>
+      <p>
+        <h6 class="my-0 text-muted">Website</h6>
+        <a href="https://{{ token.url }}/?ref=aroundsketch.github.io" class="text-decoration-none" target="blank">
+          <i class="bi bi-link"></i>
+          {{ token.url }}
+        </a>
+      </p>
+    </div>
+  </div>
+</div>

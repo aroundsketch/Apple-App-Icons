@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}" class="h-100">
+  <head>
+    {%- include analytics.html -%}
+    <meta charset="UTF-8">
+    {% feed_meta %}
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#f8f9fa">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    {%- include _css.html -%}
+  </head>
+  <body class="container d-flex h-100 p-3 flex-column bg-light">
+    <div class="d-flex w-100 h-100 mx-auto flex-column">
+        <header class="mb-auto">{%- include header.html -%}</header>
+        <main class="">{{ content }}</main>
+        <footer class="mt-auto">{%- include footer.html -%}</footer>
+    </div>
+    {%- include _scripts.html -%}
+  </body>
+</html>
