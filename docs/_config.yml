@@ -60,3 +60,4 @@ exclude:
 collections:
   app-icons:
     output: true
+    permalink: /app-icons/:title/

@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "bundle exec jekyll serve --livereload --trace",
     "create yml file": "ruby create_yml_files.rb",
+    "create html file": "ruby create_html_files.rb",
     "help": "ruby help.rb",
     "production": "rm -rf _site && bundle exec jekyll build --trace && git add . -A && git commit -a -m 'update' && git push origin master --force"
   }
