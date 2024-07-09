@@ -9,11 +9,13 @@ title: Apple App Icons - Sketch Resource
 </div>
 <div class="text-center">
   <div class="row">
+	{% assign icons = site.pages.app-icons %}
+	<p>{{ icons.name }}</p>
     {% for icon in site.data.app-icons %}
     <div class="col-md-4 g-4">
       <div class="card hover">
         <div class="mt-5 mb-4">
-          <a href="https://aroundsketch.github.io/Apple-App-Icons/app-icons/{{ icon[1].name | formatize }}/"><img class="icon-formating" src="/App-Icon/Apple/{{ icon[1].name }}/@PNG.png" alt="{{ icon[1].name }}" loading="lazy"></a>
+          <a href="https://aroundsketch.github.io/Apple-App-Icons/app-icons/{{ icon[1].name | formatize }}/"><img class="icon-formating" src="https://aroundsketch.github.io/Apple-App-Icons/App-Icon/Apple/{{ icon[1].name }}/@PNG.png" alt="{{ icon[1].name }}" loading="lazy"></a>
         </div>
         <div class="card-body">
 					<h2 class="card-title pb-3 h5 text-start">{{ icon[1].name }}</h2>
