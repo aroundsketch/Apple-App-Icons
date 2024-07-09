@@ -30,6 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+
+plugins_dir: _plugins
+
 plugins:
   - jekyll-feed
 
