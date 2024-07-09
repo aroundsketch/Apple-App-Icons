@@ -8,10 +8,15 @@ def create_yaml_files(dir_path, output_dir)
     entry_path = File.join(dir_path, entry)
     if File.directory?(entry_path)
       folder_name = File.basename(entry_path)
+      formatted_name = folder_name.gsub(/([a-z])([A-Z])/, '\1-\2').downcase # Insert hyphens between camel case and convert to lowercase
+      formatted_name = formatted_name.gsub(/\s+/, '-') # Replace spaces with hyphens
+
       yaml_content = <<~YAML
       name: #{folder_name}
+      url-name: #{formatted_name}
       tags: apple app icon
       YAML
+
       # Create the output directory if it doesn't exist
       FileUtils.mkdir_p(output_dir) unless Dir.exist?(output_dir)
 
